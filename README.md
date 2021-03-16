@@ -1,6 +1,6 @@
 # Gitlet
 
-The main functionality that Gitlet supports is:
+A CS61B project at UC Berkeley where the main functionality is:
 
 1. Saving the contents of entire directories of files.
 
